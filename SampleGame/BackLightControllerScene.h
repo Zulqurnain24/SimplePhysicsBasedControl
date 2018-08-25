@@ -7,7 +7,7 @@
 //
 
 #import <SpriteKit/SpriteKit.h>
-#import "SampleGame-Swift.h"
+#import "SimplePhysicsBasedUI_UX-Swift.h"
 
 @interface BackLightControllerScene : SKScene
 @property(strong, nonatomic) VineNode* vine;
